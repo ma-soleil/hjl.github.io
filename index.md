@@ -3,8 +3,8 @@
 
 use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+![Image](https://github.com/ma-soleil/hjl.github.io/blob/master/st1.jpg)
 
 # Links
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+And you can include links, like this [link](https://www.kubernetes.org).  
